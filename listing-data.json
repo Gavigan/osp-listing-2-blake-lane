@@ -1,6 +1,6 @@
 {
   "collection": "OSP Signature Property Collection",
-  "status": "active-new-construction",
+  "status": "under-contract",
   "property": {
     "address": "2 Blake Lane",
     "planName": "The Hancock",
@@ -8,7 +8,6 @@
     "city": "Seabrook",
     "state": "SC",
     "postalCode": "29940",
-    "offeringPriceFrom": 1350000,
     "bedrooms": 4,
     "bathrooms": 3.5,
     "conditionedSquareFeetApprox": 3476,
@@ -18,21 +17,22 @@
     "mainLevelWallHeightFeet": 12,
     "grandRoomWallHeight": "14 feet 6 inches",
     "vaultedPeakHeightApprox": "Roughly 22 feet per current listing; approved plans control",
-    "completionEstimate": "Contact the project team for the current completion schedule."
+    "completionEstimate": "Contact the project team for the current completion schedule.",
+    "previousAskingPrice": 1350000
   },
   "construction": {
-    "statusUpdated": "2026-09-07",
-    "currentPhase": "Insulation",
+    "statusUpdated": "2026-09-26",
+    "currentPhase": "Drywall in progress",
     "completedMilestones": [
       "Site and foundation",
       "Framing passed",
       "MPE rough-in passed"
     ],
     "nextMilestones": [
-      "Insulation approvals",
-      "Drywall",
-      "Interior finishes and final delivery"
-    ]
+      "Drywall finishing (proposed next)",
+      "Interior finishes and final delivery (timing to be confirmed)"
+    ],
+    "statusSource": "Owner confirmation"
   },
   "contacts": [
     {
@@ -77,5 +77,7 @@
       "assets/grand-room-kitchen-wood-ceiling.jpeg",
       "assets/family-sitting-room-olive.jpeg"
     ]
-  }
+  },
+  "statusUpdated": "2026-09-26",
+  "statusSource": "Owner confirmation"
 }
