@@ -112,11 +112,11 @@ const conciergeTopics = [
   },
   {
     keywords: ["price", "cost", "available", "availability", "listing", "zillow", "offer"],
-    answer: "The current listing price is $1,350,000; confirm current price and availability with the agents. Use the Zillow link on this page for the current listing, or text Stacey or Billy for availability, purchase terms and a private presentation."
+    answer: "2 Blake Lane is under contract, confirmed by the owner September 26, 2026. The previous asking price was $1,350,000, not a reported contract price. Contact Stacey or Billy for project information or other HG Group opportunities."
   },
   {
     keywords: ["construction", "completion", "complete", "finish", "timeline", "when", "rough", "change", "personalize", "instagram", "facebook", "progress", "update"],
-    answer: "Construction update, September 7, 2026: framing and MPE rough-in inspections have passed. The home is in the insulation phase; drywall follows required approvals. Contact the project team for the current completion schedule and any proposed changes. Follow @bullpointsc on Instagram or Facebook for current jobsite photos and videos."
+    answer: "Owner update, September 26, 2026: drywall is in progress. Contact the project team for the current completion schedule and any proposed changes. Follow @bullpointsc on Instagram or Facebook for current jobsite photos and videos."
   },
   {
     keywords: ["hg group", "old south", "osp", "builder", "broker", "other", "team", "company"],
